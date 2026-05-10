@@ -1,0 +1,12 @@
+#vivado junk
+*.log
+*.jou
+*.str
+*.wdb
+*.pb
+*.tmp
+*.wdb
+traffic_light_fsm.cache/
+traffic_light_fsm.sim/
+traffic_light_fsm.hw/
+traffic_light_fsm.ip_user_files/
